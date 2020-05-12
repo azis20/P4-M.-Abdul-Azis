@@ -2,9 +2,9 @@
 using namespace std;
 
 int main(){
-	cout<<"Nama: M.Abdul Azis\n";
+    cout<<"Nama: M.Abdul Azis\n";
     cout<<"NIM: F1B019083\n";
-	cout<<"Kelompok: 17\n";
+    cout<<"Kelompok: 17\n";
 	
 	int NIM[13]= {1,2,3,4,5,6,7,8,9,10,11,12,13};
 	cout<<"NIM 1 ="<<NIM[0]<<endl;
